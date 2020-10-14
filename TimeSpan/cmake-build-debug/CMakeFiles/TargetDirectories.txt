@@ -1,0 +1,3 @@
+/Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/cmake-build-debug/CMakeFiles/TimeSpan.dir
