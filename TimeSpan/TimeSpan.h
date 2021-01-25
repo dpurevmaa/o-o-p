@@ -48,8 +48,8 @@ public:
     TimeSpan operator-=(const TimeSpan& rhs);
     TimeSpan operator-(const TimeSpan& rhs) const;
 
-    TimeSpan operator==(const TimeSpan& rhs) const;
-    TimeSpan operator!=(const TimeSpan& rhs) const;
+    bool operator==(const TimeSpan& rhs) const;
+    bool operator!=(const TimeSpan& rhs) const;
 
     TimeSpan operator-();
 

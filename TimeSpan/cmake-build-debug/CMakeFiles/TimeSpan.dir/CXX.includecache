@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/TimeMachine.cpp
-iostream
--
-TimeSpan.h
-/Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/TimeSpan.h
-
 /Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/TimeSpan.cpp
 TimeSpan.h
 /Users/purevmaadamdinsuren/Desktop/Personal Projects/ObjectOrientedProgramming/o-o-p/TimeSpan/TimeSpan.h

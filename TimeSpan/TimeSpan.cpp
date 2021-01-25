@@ -99,12 +99,12 @@ TimeSpan TimeSpan::operator-(const TimeSpan &rhs) const
     return temp;
 }
 
-TimeSpan TimeSpan::operator==(const TimeSpan &rhs) const
+bool TimeSpan::operator==(const TimeSpan &rhs) const
 {
     return (hours_ == rhs.hours_ && minutes_ == rhs.minutes_ && seconds_ == rhs.seconds_);
 }
 
-TimeSpan TimeSpan::operator!=(const TimeSpan &rhs) const
+bool TimeSpan::operator!=(const TimeSpan &rhs) const
 {
     return (hours_ != rhs.hours_ || minutes_ != rhs.minutes_ || seconds_ != rhs.seconds_);
 }
